@@ -1,1 +1,1 @@
-# Stock_Market_Prediction_NSCAN_-_Event_aware
+# Stock_Market_Prediction_NSCAN_with_Event_aware
